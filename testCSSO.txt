@@ -2,7 +2,7 @@
 127.0.0.1
 Rex
 Chitara1
-PUT C:\\Windows\\System32\calc.exe
+PUT C:\\Windows\\System32\\calc.exe
 RUN calc.exe
-PUT C:\\Windows\\System32\cmd.exe
+PUT C:\\Windows\\System32\\cmd.exe
 RUN cmd.exe
